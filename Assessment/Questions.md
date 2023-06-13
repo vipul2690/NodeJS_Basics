@@ -86,3 +86,35 @@
     - [X] Bringing a variable declaration up its scope
     - [ ] Calling a variable inside a function
     - [ ] None of the above
+
+14. What will be the output of following code execution?
+    - [ ] It will print 'Logging...'
+    - [ ] It will not print anything
+    - [ ] It will return undefined
+    - [x] It will throw error `Uncaught TypeError: logMe is not a function at <anonymous>:1:1`
+
+15. Which are the steps in execution context?
+    - [ ] Tokenizing
+    - [ ] Parsing
+    - [ ] Code Generation
+    - [x] All of the above
+
+16. Hoisting works with arrow functions in JavaScript. True or False?
+    - [ ] True
+    - [x] False
+
+17. In Global Execution Context both `window` and `this` are equal.
+    - [x] True
+    - [ ] False
+
+18. Concurrency refers to the event loop's capacity to execute JavaScript callback functions after completing other work. True or False?
+    - [x] True
+    - [ ] False
+
+19. `setTimeout()` and `setInterval()` are executed in which phase of event loop?
+    - [ ] poll
+    - [x] timers
+    - [ ] check
+    - [ ] close
+
+20. `
